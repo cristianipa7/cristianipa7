@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cristian Iparraguirre</h1>
+<div>
+  <ul align="center" style="list-style-type: none; margin-bottom: 15px;">
+    <summary><h1 style="display: inline-block; margin-bottom: 0px;">Hi 👋, I'm Cristian Iparraguirre</h1></summary>
+  </ul>
+</div>
+<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0484.gif">
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tagesschrift&weight=100&size=23&duration=2500&pause=1500&color=3BCC7E&center=true&vCenter=true&width=700&lines=Software+engineering+student;Passionate+about+Frontend+and+Backend+Development;Always+learning+new+things" alt="Typing SVG" />
@@ -20,7 +26,7 @@
 
 <br>
 
-<h3 height="30" style="display: flex; align-items: center; justify-content: left;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right:5px;">Connect with me 🤝</h3>
+<h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlsODVjMzNjbnJjcXdpdDM5d25zNnc0OGlpbnNxbmt0ZW15d2VwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X4GS5lP6xduE8ZFwhV/giphy.gif" width="30" height="15" style="margin-right:5px;">Connect with me 🤝</h3>
 
 <p align="center">
 
