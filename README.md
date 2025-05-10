@@ -20,28 +20,25 @@
 
 <br>
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin: 0 5px -6px 0;">Connect with me 🤝</h3>
-<p align="left">
-  <a href="mailto:cristianipa7@gmail.com" target="blank">
-    <img align="center"
-      src="https://img.icons8.com/doodle/2x/gmail-new.png"
-      alt="Cristian gmail" height="30" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/cristian-iparraguirre-926746313/" target="blank">
-    <img align="center"
-      src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"
-      alt="Cristian linkedin" height="30" width="30" />
-  </a>
-  <a href="https://github.com/cristianipa7" target="blank">
-    <img align="center"
-      src="https://img.icons8.com/doodle/40/000000/github--v1.png"
-      alt="Cristian linkedin" height="30" width="30" />
-  </a>
-  <a href="https://www.instagram.com/cristianipa7/" target="blank">
-    <img align="center"
-      src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"
-      alt="Cristian instagram" height="30" width="30" />
-  </a>
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin: 0 5px -20px 0;">Connect with me 🤝</h3>
+
+<p align="center">
+  <div align="left" class="icons-social" style="margin-left: 20px;">
+    <a target="_blank" href="mailto:cristianipa7@gmail.com">
+		  <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:40px; height:40px;" >
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/cristian-iparraguirre-926746313/">
+		  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="width:40px; height:40px;">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/cristianipa7">
+		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" style="width:40px; height:40px;">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/cristianipa7/">
+		  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="width:40px; height:40px;">
+    </a>
+  </div>
 </p>
+
+<br>
 
 [cristianipa7](https://github.com/cristianipa7)
