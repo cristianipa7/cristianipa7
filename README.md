@@ -16,27 +16,54 @@
 
 - ⚡ I like to explore new technologies and develop software solutions and quick hacks.
 
-- 📫 How to reach me **cristianipa7@gmail.com**
+- 🤔 I’m currently open for a new `job opportunity`.
 
 <br>
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin: 0 5px -20px 0;">Connect with me 🤝</h3>
+<h3 height="30" style="display: flex; align-items: center; justify-content: left;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right:5px;">Connect with me 🤝</h3>
 
 <p align="center">
-  <div align="left" class="icons-social" style="margin-left: 20px;">
-    <a target="_blank" href="mailto:cristianipa7@gmail.com">
-		  <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:40px; height:40px;" >
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/cristian-iparraguirre-926746313/">
-		  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="width:40px; height:40px;">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/cristianipa7">
-		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" style="width:40px; height:40px;">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/cristianipa7/">
-		  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="width:40px; height:40px;">
-    </a>
+
+  <div align="left" class="icons-social" style="margin-left: 10px;">
+    <a target="_blank" href="mailto:cristianipa7@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:40px; height:40px;"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/cristian-iparraguirre-926746313/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="width:40px; height:40px;"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/cristianipa7"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" style="width:40px; height:40px;"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/cristianipa7/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="width:40px; height:40px;"></a>
   </div>
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+	<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html5" width="40" height="40" /></a>
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css3" width="40" height="40" /></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="40" height="40" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript" width="40" height="40" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="vue.js" width="40" height="40" /></a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="angular" width="40" height="40" /></a>
+	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" height="40" /></a>
+	<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="40" height="40" /></a>
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000" alt="csharp" width="40" height="40" /></a>
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" width="40" height="40" /></a>
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cplusplus" width="40" height="40" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=qULYrKvr-AFH&format=png&color=000000" alt="django" width="40" height="40" /></a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" alt="flask" width="40" height="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5h6u20sNjD6JFopjIztwjRfQWrZQ-L5ZQ1w&s" alt="entity framework core" width="40" height="40" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="spring boot" width="40" height="40" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" alt="postman" width="40" height="40" /></a>
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mysql" width="40" height="40" /></a>
+  <a href="https://www.microsoft.com/es-es/sql-server" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="sql server" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="mongodb" width="40" height="40" /></a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="docker" width="40" height="40" /></a>
+  <a href="https://firebase.google.com/?hl=es-419" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase" width="40" height="40" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="visual studio code" width="40" height="40" /></a>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=pj15SuHu3Vlt&format=png&color=000000" alt="jet brains" width="40" height="40" /></a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=dQUAwwnconR8&format=png&color=000000" alt="github" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40" /></a>
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=21812&format=png&color=000000" alt="markdown" width="40" height="40" /></a>
+  <a href="https://www.microsoft.com/es-es/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000" alt="microsoft 365" width="40" height="40" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" width="40" height="40" /></a>
 </p>
 
 <br>
