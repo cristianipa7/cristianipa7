@@ -1,9 +1,9 @@
 <div>
   <ul align="center" style="list-style-type: none; margin-bottom: 15px;">
-    <summary><h1 style="display: inline-block; margin-bottom: 0px;">Hi 👋, I'm Cristian Iparraguirre</h1></summary>
+    <summary style="list-style-type: none;"><h1 style="display: inline-block; margin-bottom: 0px;">Hi 👋, I'm Cristian Iparraguirre</h1></summary>
   </ul>
 </div>
-<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0484.gif">
+<picture><img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0484.gif"></picture>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -26,21 +26,8 @@
 
 <br>
 
-<h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlsODVjMzNjbnJjcXdpdDM5d25zNnc0OGlpbnNxbmt0ZW15d2VwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X4GS5lP6xduE8ZFwhV/giphy.gif" width="30" height="15" style="margin-right:5px;">Connect with me 🤝</h3>
+## <picture><img src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif" width="30" height="30"></picture> Languages and Tools
 
-<p align="center">
-
-  <div align="left" class="icons-social" style="margin-left: 10px;">
-    <a target="_blank" href="mailto:cristianipa7@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:40px; height:40px;"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/cristian-iparraguirre-926746313/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="width:40px; height:40px;"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/cristianipa7"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" style="width:40px; height:40px;"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/cristianipa7/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="width:40px; height:40px;"></a>
-  </div>
-</p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html5" width="40" height="40" /></a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css3" width="40" height="40" /></a>
@@ -70,6 +57,29 @@
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=21812&format=png&color=000000" alt="markdown" width="40" height="40" /></a>
   <a href="https://www.microsoft.com/es-es/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000" alt="microsoft 365" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" width="40" height="40" /></a>
+</p>
+
+<br>
+
+## <picture><img src="https://media.tenor.com/K3j9pwWlME0AAAAi/fire-flame.gif" width="30" height="30"></picture> Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristianipa7/cristianipa7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristianipa7/cristianipa7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristianipa7/cristianipa7/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br>
+
+## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlsODVjMzNjbnJjcXdpdDM5d25zNnc0OGlpbnNxbmt0ZW15d2VwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X4GS5lP6xduE8ZFwhV/giphy.gif" width="30" height="15" align="center"></picture> Connect with me 🤝
+
+<p align="center">
+  <div align="left" class="icons-social" style="margin-left: 10px;">
+    <a target="_blank" href="mailto:cristianipa7@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" width="40" height="40"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/cristian-iparraguirre-926746313/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="40" height="40"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/cristianipa7"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" width="40" height="40"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/cristianipa7/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" width="40" height="40"></a>
+  </div>
 </p>
 
 <br>
