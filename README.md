@@ -1,6 +1,6 @@
-<div>
-  <ul align="center" style="list-style-type: none; margin-bottom: 15px;">
-    <summary style="list-style-type: none;"><h1 style="display: inline-block; margin-bottom: 0px;">Hi 👋, I'm Cristian Iparraguirre</h1></summary>
+<div id="user-content-toc">
+  <ul align="center" margin-bottom: 15px;">
+    <summary><h1 style="display: inline-block; margin-bottom: 0px;">Hi 👋, I'm Cristian Iparraguirre</h1></summary>
   </ul>
 </div>
 <picture><img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0484.gif"></picture>
@@ -14,7 +14,7 @@
 <br>
 
 <p>
-  <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" />
+  <picture><img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" /></picture>
 </p>
 
 
@@ -61,7 +61,7 @@
 
 <br>
 
-## <picture><img src="https://media.tenor.com/K3j9pwWlME0AAAAi/fire-flame.gif" width="30" height="30"></picture> Contribution
+## <picture><img src="https://media.tenor.com/K3j9pwWlME0AAAAi/fire-flame.gif" width="30" height="30"></picture> Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristianipa7/cristianipa7/output/github-contribution-grid-snake-dark.svg">
@@ -83,5 +83,7 @@
 </p>
 
 <br>
+
+---
 
 [cristianipa7](https://github.com/cristianipa7)
