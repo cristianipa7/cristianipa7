@@ -84,6 +84,8 @@
 
 <br>
 
+![footer banner](assets/banner.webp)
+
 ---
 
 [cristianipa7](https://github.com/cristianipa7)
