@@ -3,7 +3,6 @@
     <summary><h1 style="display: inline-block; margin-bottom: 0px;">Hi 👋, I'm Cristian Iparraguirre</h1></summary>
   </ul>
 </div>
-<picture><img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0484.gif"></picture>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
